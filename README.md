@@ -16,3 +16,5 @@ support for ES modules and the "module" property in package.json.
 This is based on the [basic example](http://prosemirror.net/examples/basic/) from the [ProseMirror](http://prosemirror.net) website.
 
 You can edit index.js and click "show" at the top of the page to view the results.
+
+Discussion: [discuss.ProseMirror](https://discuss.prosemirror.net/t/es-modules-demo/1608)
